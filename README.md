@@ -1,3 +1,7 @@
 "# AnimalAI" 
-Use
-pip install flickrapi"# AnimalAI" 
+
+#Use
+
+pip install flickrapi
+
+pip install keras
