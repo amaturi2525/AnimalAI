@@ -3,7 +3,7 @@ import os, glob
 import numpy as np
 from sklearn import model_selection
 
-classes = ["monkey"]
+classes = ["monkey","boar"]
 num_classes = len(classes)
 image_size = 50
 
