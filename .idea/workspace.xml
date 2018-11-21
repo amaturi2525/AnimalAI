@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2858fb5-d118-4736-8b55-63760724e96f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a2858fb5-d118-4736-8b55-63760724e96f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +30,7 @@
           <entry key="json" value="1" />
           <entry key="md" value="1" />
           <entry key="npy" value="1" />
-          <entry key="py" value="7" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -42,7 +40,7 @@
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -52,7 +50,7 @@
           <entry key="js" value="20" />
           <entry key="json" value="44" />
           <entry key="md" value="50" />
-          <entry key="py" value="2692" />
+          <entry key="py" value="2704" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -61,7 +59,7 @@
           <entry key="JavaScript" value="20" />
           <entry key="Markdown" value="50" />
           <entry key="PLAIN_TEXT" value="84" />
-          <entry key="Python" value="2635" />
+          <entry key="Python" value="2647" />
         </counts>
       </usages-collector>
     </session>
@@ -107,10 +105,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/animal_cnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="17">
+              <caret line="1" column="35" lean-forward="true" selection-end-line="63" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
                 <marker date="1542713845911" expanded="true" signature="293:298" ph="..." />
                 <marker date="1542713845911" expanded="true" signature="664:669" ph="..." />
               </folding>
@@ -118,13 +115,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gen_data_augmented.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="799">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/animal_cnn_aug.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,6 +183,7 @@
         <option value="$PROJECT_DIR$/gen_data_argment.py" />
         <option value="$PROJECT_DIR$/gen_data_argmented.py" />
         <option value="$PROJECT_DIR$/gen_data_augmented.py" />
+        <option value="$PROJECT_DIR$/animal_cnn_aug.py" />
       </list>
     </option>
   </component>
@@ -184,9 +194,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="384" />
-    <option name="width" value="927" />
-    <option name="height" value="775" />
+    <option name="x" value="387" />
+    <option name="y" value="27" />
+    <option name="width" value="932" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -242,10 +253,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="384" y="0" width="927" height="775" extended-state="0" />
+    <frame x="387" y="27" width="932" height="740" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21568628" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21444954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,7 +270,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25117004" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5383244" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -321,18 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/animal_cnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-            <marker date="1542713845911" expanded="true" signature="293:298" ph="..." />
-            <marker date="1542713845911" expanded="true" signature="664:669" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/download.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -345,10 +344,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gen_data_augmented.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="799">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="35" lean-forward="true" selection-end-line="63" />
+          <folding>
+            <marker date="1542713845911" expanded="true" signature="293:298" ph="..." />
+            <marker date="1542713845911" expanded="true" signature="664:669" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal_cnn_aug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
