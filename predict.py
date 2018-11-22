@@ -15,6 +15,7 @@ num_classes = len(classes)
 image_size = 50
 
 def build_model():
+    '''
     model = Sequential()
     model.add(Conv2D(32,(3,3), padding='same', input_shape=(50, 50, 3)))
     model.add(Activation('relu'))
@@ -41,6 +42,7 @@ def build_model():
 
     model.compile(loss='categorical_crossentropy',
                   optimizer=opt,metrics=['accuracy'])
+    '''
     model = load_model('./animal_cnn_aug.h5')
     return model
 
